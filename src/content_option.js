@@ -12,7 +12,7 @@ const introdata = {
         third: "I’m backend developer",
     },
     description: "College student looking for a Software Engineer Intern where I can develop my programming and design skills. Strengths include attention to detail, interpersonal communication, and an eagerness to learn.",
-    your_img_url: process.env.PUBLIC_URL + "/avt.png",
+    your_img_url: process.env.PUBLIC_URL + "/avt2.jpg",
 };
 
 const dataabout = {
