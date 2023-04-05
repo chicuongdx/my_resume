@@ -71,61 +71,30 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfcuztLb_gLq5Gs73rRLMjzLAIeO9CbesNA&usqp=CAU",
+        description: "Project using Yolov5 and Yolov4, Faster-RNN for training model object dectection. Detect driver using motorcycle without helmet or not.",
+        link: "",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKS6jff4b74HWqj2v1xMh3wBRIB3JEv9LwQw&usqp=CAU",
+        description: "Project using framework .Net C#. Build windows application. Using Youtube API to get video and show it on the application.",
+        link: "https://github.com/chicuongdx/Application_Anime",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://adamo-studio.com/wp-content/uploads/2021/12/Sojo-Hotel-Kiosk-app-03.png",
+        description: "Project using framework .Net C#. Build windows application for hotel management. Integrate with Oracle, Smile, and Newway PMS.",
+        link: "https://eyeq.tech/smart-hotels-self-check-in-kiosk/",
     },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://assets-global.faceid.com/official-global/banner3.d1b0ea49.png",
+        description: "FaceID using Yolov5 for training model object dectection. Using FaceNet for training model face recognition. Deploy model to API using FastAPI.",
+        link: "https://github.com/chicuongdx/faceid-wrapper",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYigVavk3JY7Yr-QVxgncMtqiPBfBMGLJrucU-c6RrATRAuNvR4Gq46xQe2kwz9atLlII&usqp=CAU",
+        description: "Build CareerGPT.ai for help people find their career. Using GPT-3 call API from OpenAI. Using Flask for build app.",
+        link: "https://github.com/chicuongdx/dot.ai",
     },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    }
 ];
 
 const contactConfig = {
