@@ -1,7 +1,7 @@
 const logotext = "Cường's CV";
 const meta = {
     title: "Cường Nguyễn",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    description: "I’m Cường Nguyễn AI Engineer _ Backend devloper,currently I student at UIT",
 };
 
 const introdata = {
@@ -11,7 +11,7 @@ const introdata = {
         second: "I’m AI Engineer",
         third: "I’m backend developer",
     },
-    description: "College student looking for a Software Engineer Intern where I can develop my programming and design skills. Strengths include attention to detail, interpersonal communication, and an eagerness to learn.",
+    description: "College student looking for a AI Engineer Fresher where I can develop my programming and design skills. Strengths include attention to detail, interpersonal communication, and an eagerness to learn.",
     your_img_url: process.env.PUBLIC_URL + "/avt2.jpg",
 };
 
@@ -32,11 +32,11 @@ const skills = [{
     },
     {
         name: "Tensorflow",
-        value: 70,
+        value: 80,
     },
     {
         name: "Pytorch",
-        value: 70,
+        value: 80,
     },
     {
         name: "C#",
@@ -44,26 +44,30 @@ const skills = [{
     },
     {
         name: "Javascript",
-        value: 80,
+        value: 70,
     },
     {
         name: "NestJS",
-        value: 80,
+        value: 70,
     }
 ];
 
 const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "AI Engineer",
+        description: "Knowledge about framework and library OpenCV Tensorflow, Pytorch, Scikit-Learn, Numpy, Pandas, Seaborn, and Matplotlib of Python.",
     },
     {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "NLP Engineer",
+        description: "Knowledge about framework and library NLTK, Spacy, Gensim, and TextBlob of Python. Knowledge of basic deep convolution neural network CNN, RNN, LSTM, Self-Attention, and Transformer (BERT, GPT).",
     },
     {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Windows App, ASP.NET Core",
+        description: "Knowledge of ASP.NET, ASP.NET Core, WPF, Winform. Integrate Oracle, Smile, and Newway PMS into the application",
     },
+    {
+        title: "Backend Developer With NodeJS",
+        description: "Knowledge of NestJS. Develop API for mobile application and web application, using MySQL, MongoDB. Create chatserver with Socket.io.",
+    }
 ];
 
 const dataportfolio = [{
