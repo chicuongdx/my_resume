@@ -8,7 +8,7 @@ const introdata = {
     title: "I’m Cường Nguyễn",
     animated: {
         first: "I love coding",
-        second: "I code AI and ML models",
+        second: "I’m AI Engineer",
         third: "I’m backend developer",
     },
     description: "College student looking for a Software Engineer Intern where I can develop my programming and design skills. Strengths include attention to detail, interpersonal communication, and an eagerness to learn.",
@@ -121,18 +121,13 @@ const dataportfolio = [{
         img: "https://picsum.photos/400/?grayscale",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
+    }
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "chi.cuongdx.130@gmail.com",
+    YOUR_FONE: "0862506248",
+    description: "This is a contact form for my website. Please use this form to send me a message or request more information. I will get back to you as soon as possible. Thank you!",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
